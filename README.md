@@ -1,0 +1,2 @@
+# knowing
+first repo attempt
